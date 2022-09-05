@@ -26,18 +26,23 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: King Abdullah University of Science and Technology, Saudi Arabia
+      year: Jul. 2016 – Dec. 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervisor: Diogo A. Gomes
+        
+    - title: Master
+      institution: King Abdullah University of Science and Technology, Saudi Arabia
+      year: Sep. 2014 – Jun. 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor: Diogo A. Gomes
+        
+    - title: Master
+      institution: Zhejiang University, Hangzhou
+      year: Sep. 2011 – Jun.2014
+      description:
+        - Supervisor: Hujun Bao and Rui Wang
+        
+     - title: Bachelor
+      institution: Chongqing University, Chongqing
+      year: Sep. 2007 - Jul. 2011
