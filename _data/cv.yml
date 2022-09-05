@@ -1,0 +1,41 @@
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Scholar Research Associate
+      institution: Computing and Mathematical Sciences, California Institute of Technology, Pasadena, California, US
+      year: Sep. 2022 - present
+      description:
+        - sponsored by Houman Owhadi and Andrew M. Stuart
+        
+    - title: Postdoctoral Researcher
+      institution: Yau Mathematical Sciences Center & Beijing Institute of Mathematical Sciences and Applications, Beijing, China
+      year: Sep. 2020 - Jul. 2022
+      description:
+        - hosted by Shiu-Yuen Cheng and Lingyun Qiu
+      
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: King Abdullah University of Science and Technology, Saudi Arabia
+      year: Jul. 2016 – Dec. 2020
+      description:
+        - Supervisor: Diogo A. Gomes
+        
+    - title: Master
+      institution: King Abdullah University of Science and Technology, Saudi Arabia
+      year: Sep. 2014 – Jun. 2016
+      description:
+        - Supervisor: Diogo A. Gomes
+        
+    - title: Master
+      institution: Zhejiang University, Hangzhou
+      year: Sep. 2011 – Jun.2014
+      description:
+        - Supervisor: Hujun Bao and Rui Wang
+        
+     - title: Bachelor
+      institution: Chongqing University, Chongqing
+      year: Sep. 2007 - Jul. 2011
+
+
