@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /research/
-title: 
+title: Research
 description: 
 years: 
 nav: true
 nav_order: 1
 ---
+
+My research interests include mean field games, partial differential equations, numerical analysis, optimization, Gaussian processes and kernel methods. 
 
 Publications
 ======
