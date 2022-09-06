@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Steele House, Pasadena</p>
+    <p>Steele House, Pasadena,</p>
     <p>California, USA</p>
     <p>yxjmath at caltech dot edu</p>
 
