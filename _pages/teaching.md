@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-* Instructor of ACM 270, Partial Differential Equations and Computational Mean Field Games, Caltech	                                        																				          Mar. 2024–Jun. 2024
+* Instructor of ACM 270, Partial Differential Equations and Computational Mean Field Games, Caltech, 	                                        																				          Mar. 2024–Jun. 2024
 
 * Teaching Assistant of Functional Analysis, KAUST, Sep. 2017–Dec. 2017
   * Instructor: Diogo A. Gomes
