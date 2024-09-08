@@ -12,13 +12,13 @@ My research interests include mean field games, partial differential equations, 
 
 Publications
 ======
-* T.Bourdais, P. Batlle, **X. Yang**, R. Baptista, N. Rouquette, H. Owhadi. Codiscovering graphical structure and functional relationships within data: A Gaussian Process framework for connecting dots. Proceedings of the National Academy of Sciences 121 (32), e2403449121. 2024
+* T.Bourdais, P. Batlle, **X. Yang**, R. Baptista, N. Rouquette, H. Owhadi. Codiscovering graphical structure and functional relationships within data: A Gaussian Process framework for connecting dots. Proceedings of the National Academy of Sciences 121 (32), e2403449121. 2024. [[Journal](https://www.pnas.org/doi/abs/10.1073/pnas.2403449121?af=R)]
 
-* J.Guo, C. Mou, **X. Yang**, C. Zhou. Decoding Mean Field Games from Population and Environment Observations By Gaussian Processes. Journal of Computational Physics, 2024.
+* J.Guo, C. Mou, **X. Yang**, C. Zhou. Decoding Mean Field Games from Population and Environment Observations By Gaussian Processes. Journal of Computational Physics, 2024. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999124002274)]
   
-* L. M Briceno-Arias, F. J. Silva, **X. Yang**. Forward-backward algorithm for functions with locally Lipschitz gradient: applications to mean field games, Set-Valued and Variational Analysis 32 (2), 1-22, 2024.
+* L. M Briceno-Arias, F. J. Silva, **X. Yang**. Forward-backward algorithm for functions with locally Lipschitz gradient: applications to mean field games, Set-Valued and Variational Analysis 32 (2), 1-22, 2024. [[Journal](https://link.springer.com/article/10.1007/s11228-024-00719-1)]
 
-* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. R.Journal of Computational Physics, 2023. [[Arxiv](https://arxiv.org/abs/2205.03760)]
+* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. R.Journal of Computational Physics, 2023. [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357)]
 
 * C. Mou, **X. Yang**, C. Zhou. Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features. Journal of Computational Physics, 2022. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999122002509#!)][[Arxiv](https://arxiv.org/abs/2112.05414)]
 
@@ -34,6 +34,12 @@ Publications
   
 Invited Talks
 ======
+* Decoding mean field games from population and environment observations by Gaussian Processes  		Oct.2024          
+  * Conference: SIAM MDS 2024 Minisymposium
+
+* Decoding mean field games from population and environment observations by Gaussian Processes  		Dec.2023          
+  * Conference: Workshop on Scientific Computing and Large Data - Department of Mathematics | University of South Carolina
+
 * Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features, Jan. 2022          
   * Conference: DKU- NUSRI Joint Workshop on Pure and Applied Mathematics 2022
 
