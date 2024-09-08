@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-My research interests include mean field games, partial differential equations, numerical analysis, optimization, Gaussian processes and kernel methods. 
+My research interests include mean field games, partial differential equations, numerical analysis, optimization, operator learning, inverse problems, Gaussian processes and kernel methods. 
 
 Publications
 ======
