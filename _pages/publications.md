@@ -12,7 +12,13 @@ My research interests include mean field games, partial differential equations, 
 
 Publications
 ======
-* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. arXiv:2205.03760, 2022. [[Arxiv](https://arxiv.org/abs/2205.03760)]
+* T.Bourdais, P. Batlle, **X. Yang**, R. Baptista, N. Rouquette, H. Owhadi. Codiscovering graphical structure and functional relationships within data: A Gaussian Process framework for connecting dots. Proceedings of the National Academy of Sciences 121 (32), e2403449121. 2024
+
+* J.Guo, C. Mou, **X. Yang**, C. Zhou. Decoding Mean Field Games from Population and Environment Observations By Gaussian Processes. Journal of Computational Physics, 2024.
+  
+* L. M Briceno-Arias, F. J. Silva, **X. Yang**. Forward-backward algorithm for functions with locally Lipschitz gradient: applications to mean field games, Set-Valued and Variational Analysis 32 (2), 1-22, 2024.
+
+* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. R.Journal of Computational Physics, 2023. [[Arxiv](https://arxiv.org/abs/2205.03760)]
 
 * C. Mou, **X. Yang**, C. Zhou. Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features. Journal of Computational Physics, 2022. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999122002509#!)][[Arxiv](https://arxiv.org/abs/2112.05414)]
 
