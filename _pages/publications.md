@@ -14,11 +14,13 @@ Publications
 ======
 * T.Bourdais, P. Batlle, **X. Yang**, R. Baptista, N. Rouquette, H. Owhadi. Codiscovering graphical structure and functional relationships within data: A Gaussian Process framework for connecting dots. Proceedings of the National Academy of Sciences 121 (32), e2403449121. 2024. [[Journal](https://www.pnas.org/doi/abs/10.1073/pnas.2403449121?af=R)]
 
-* J.Guo, C. Mou, **X. Yang**, C. Zhou. Decoding Mean Field Games from Population and Environment Observations By Gaussian Processes. Journal of Computational Physics, 2024. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999124002274)]
+* J.Guo, C. Mou, **X. Yang**, C. Zhou. Decoding Mean Field Games from Population and Environment Observations By Gaussian Processes. Journal of Computational Physics, 2024. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999124002274)][[Arxiv](https://arxiv.org/abs/2312.06625)]
   
 * L. M Briceno-Arias, F. J. Silva, **X. Yang**. Forward-backward algorithm for functions with locally Lipschitz gradient: applications to mean field games, Set-Valued and Variational Analysis 32 (2), 1-22, 2024. [[Journal](https://link.springer.com/article/10.1007/s11228-024-00719-1)]
 
-* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. R.Journal of Computational Physics, 2023. [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357)]
+* **X. Yang**, H. Owhadi. A Mini-Batch Method for Solving Nonlinear PDEs with Gaussian Processes, arXiv:2306.00307, 2023. [[Arxiv](https://arxiv.org/abs/2306.00307)]
+
+* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. R.Journal of Computational Physics, 2023. [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357)][[Arxiv](https://arxiv.org/abs/2205.03760)]
 
 * C. Mou, **X. Yang**, C. Zhou. Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features. Journal of Computational Physics, 2022. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999122002509#!)][[Arxiv](https://arxiv.org/abs/2112.05414)]
 
