@@ -38,7 +38,7 @@ Invited Talks
   * Conference: SIAM MDS 2024 Minisymposium
 
 * Decoding mean field games from population and environment observations by Gaussian Processes  		Dec.2023          
-  * Conference: Workshop on Scientific Computing and Large Data - Department of Mathematics | University of South Carolina
+  * Conference: Workshop on Scientific Computing and Large Data, Department of Mathematics | University of South Carolina
 
 * Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features, Jan. 2022          
   * Conference: DKU- NUSRI Joint Workshop on Pure and Applied Mathematics 2022
