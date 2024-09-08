@@ -20,7 +20,7 @@ Publications
 
 * **X. Yang**, H. Owhadi. A Mini-Batch Method for Solving Nonlinear PDEs with Gaussian Processes, arXiv:2306.00307, 2023. [[Arxiv](https://arxiv.org/abs/2306.00307)]
 
-* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. R.Journal of Computational Physics, 2023. [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357)][[Arxiv](https://arxiv.org/abs/2205.03760)]
+* R. Meng, **X. Yang**. Sparse Gaussian processes for solving nonlinear PDEs. Journal of Computational Physics, 2023. [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357)][[Arxiv](https://arxiv.org/abs/2205.03760)]
 
 * C. Mou, **X. Yang**, C. Zhou. Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features. Journal of Computational Physics, 2022. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999122002509#!)][[Arxiv](https://arxiv.org/abs/2112.05414)]
 
