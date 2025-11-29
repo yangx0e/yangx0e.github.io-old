@@ -12,6 +12,16 @@ My research interests include mean field games, partial differential equations, 
 
 Publications
 ======
+* J. Zhang, **X. Yang**, C. Mou, C. Zhou. Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to ILL-Posed Inverse Problems, Journal of Computational Physics, 2025. [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999125006941)]
+  
+* A. Bacho, A. G. Sorokin, **X. Yang**, T. Bourdais, E. Calvello, M. Darcy, A. Hsu, B. Hosseini, H. Owhadi. Operator Learning at Machine Precision, arXiv:2511.19980, 2025. [[Arxiv](https://arxiv.org/abs/2511.19980)]
+  
+* N. H. Nelsen, H. Owhadi, A. M. Stuart, **X. Yang**, Zongren Zou. Bilevel optimization for learning hyperparameters: Application to solving PDEs and inverse problems with Gaussian processes, arXiv:2510.05568, 2025. [[Arxiv](https://arxiv.org/abs/2510.05568)]
+  
+* **X. Yang**, J. Zhang. Gaussian Process Policy Iteration with Additive Schwarz Acceleration for Forward and Inverse HJB and Mean Field Game Problems, arXiv:2505.00909, 2025. [[Arxiv](https://arxiv.org/abs/2505.00909)]
+
+* R. Baptista, E. Calvello, M. Darcy, H. Owhadi, A. M. Stuart, **X. Yang**. Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks, arXiv:2501.17110, 2025. [[Arxiv](https://arxiv.org/abs/2501.17110)]
+
 * T.Bourdais, P. Batlle, **X. Yang**, R. Baptista, N. Rouquette, H. Owhadi. Codiscovering graphical structure and functional relationships within data: A Gaussian Process framework for connecting dots. Proceedings of the National Academy of Sciences 121 (32), e2403449121. 2024. [[Journal](https://www.pnas.org/doi/abs/10.1073/pnas.2403449121?af=R)]
 
 * J.Guo, C. Mou, **X. Yang**, C. Zhou. Decoding Mean Field Games from Population and Environment Observations By Gaussian Processes. Journal of Computational Physics, 2024. [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999124002274)][[Arxiv](https://arxiv.org/abs/2312.06625)]
@@ -36,6 +46,14 @@ Publications
   
 Invited Talks
 ======
+
+* Gaussian Processes for Solving Functional PDEs: Applications to Functional Renormalization Group Equations Sep. 2025
+  * Conference: Scientific Machine Learning: Theory, Algorithms, and Applications, Purdue
+
+* Data-Driven Methods for PDE Solutions and Model Discovery                                    March.2025
+  * Conference: UQ and Trustworthy AI Algorithms for Complex Systems and Social Good, Chicago
+
+
 * Decoding mean field games from population and environment observations by Gaussian Processes  		Oct.2024          
   * Conference: SIAM MDS 2024 Minisymposium
 
