@@ -88,7 +88,7 @@ My research interests include mean field games, partial differential equations, 
 
 </details>
 
-<details>
+<details open>
 <summary><strong>2020</strong></summary>
 
 12. R. Ferreira, D. Gomes, **X. Yang**.  
@@ -103,7 +103,7 @@ My research interests include mean field games, partial differential equations, 
 
 </details>
 
-<details>
+<details open>
 <summary><strong>2016</strong></summary>
 
 14. **X. Yang**, E. Debonneuil, A. Zhavoronkov, B. Mishra.  
@@ -120,7 +120,7 @@ My research interests include mean field games, partial differential equations, 
 
 </details>
 
-<details>
+<details open>
 <summary><strong>2014</strong></summary>
 
 16. R. Wang, **X. Yang**, Y. Yuan, W. Chen, K. Bala, H. Bao.  
