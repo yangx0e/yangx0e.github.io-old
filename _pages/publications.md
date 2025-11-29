@@ -10,161 +10,417 @@ nav_order: 1
 
 My research interests include mean field games, partial differential equations, numerical analysis, optimization, operator learning, inverse problems, Gaussian processes and kernel methods. 
 
+<style>
+.pub-list, .talk-list {
+  margin: 0;
+  padding: 0;
+}
+.pub-card, .talk-card {
+  list-style: none;
+  margin: 0 0 0.9rem 0;
+  padding: 0.65rem 0.9rem;
+  border-left: 4px solid #4a7ebb;
+  background: #f9fbff;
+  border-radius: 6px;
+}
+.pub-title, .talk-title {
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+.pub-authors, .pub-meta, .pub-links,
+.talk-meta, .talk-where, .talk-date {
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+.pub-meta, .talk-meta {
+  color: #555;
+}
+.pub-links a, .talk-meta a {
+  margin-right: 0.4rem;
+}
+@media (prefers-color-scheme: dark) {
+  .pub-card, .talk-card {
+    background: #111827;
+    border-left-color: #60a5fa;
+  }
+  .pub-meta, .talk-meta {
+    color: #9ca3af;
+  }
+}
+</style>
+
 ## Publications
 
-<details open>
-<summary><strong>2025</strong></summary>
+### 2025
 
-1. J. Zhang, **X. Yang**, C. Mou, C. Zhou.  
-   *Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to Ill-Posed Inverse Problems*.  
-   *Journal of Computational Physics*, 2025.  
-   [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999125006941)]
+<ul class="pub-list">
 
-2. A. Bacho, A. G. Sorokin, **X. Yang**, T. Bourdais, E. Calvello, M. Darcy, A. Hsu, B. Hosseini, H. Owhadi.  
-   *Operator Learning at Machine Precision*.  
-   arXiv:2511.19980, 2025.  
-   [[arXiv](https://arxiv.org/abs/2511.19980)]
+  <li class="pub-card">
+    <div class="pub-meta">Journal of Computational Physics · 2025</div>
+    <div class="pub-title">
+      Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to Ill-Posed Inverse Problems
+    </div>
+    <div class="pub-authors">
+      J. Zhang, <strong>X. Yang</strong>, C. Mou, C. Zhou
+    </div>
+    <div class="pub-links">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999125006941">Journal</a>
+    </div>
+  </li>
 
-3. N. H. Nelsen, H. Owhadi, A. M. Stuart, **X. Yang**, Z. Zou.  
-   *Bilevel Optimization for Learning Hyperparameters: Application to Solving PDEs and Inverse Problems with Gaussian Processes*.  
-   arXiv:2510.05568, 2025.  
-   [[arXiv](https://arxiv.org/abs/2510.05568)]
+  <li class="pub-card">
+    <div class="pub-meta">arXiv:2511.19980 · 2025</div>
+    <div class="pub-title">
+      Operator Learning at Machine Precision
+    </div>
+    <div class="pub-authors">
+      A. Bacho, A. G. Sorokin, <strong>X. Yang</strong>, T. Bourdais, E. Calvello, M. Darcy, A. Hsu, B. Hosseini, H. Owhadi
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2511.19980">arXiv</a>
+    </div>
+  </li>
 
-4. **X. Yang**, J. Zhang.  
-   *Gaussian Process Policy Iteration with Additive Schwarz Acceleration for Forward and Inverse HJB and Mean Field Game Problems*.  
-   arXiv:2505.00909, 2025.  
-   [[arXiv](https://arxiv.org/abs/2505.00909)]
+  <li class="pub-card">
+    <div class="pub-meta">arXiv:2510.05568 · 2025</div>
+    <div class="pub-title">
+      Bilevel Optimization for Learning Hyperparameters: Application to Solving PDEs and Inverse Problems with Gaussian Processes
+    </div>
+    <div class="pub-authors">
+      N. H. Nelsen, H. Owhadi, A. M. Stuart, <strong>X. Yang</strong>, Z. Zou
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2510.05568">arXiv</a>
+    </div>
+  </li>
 
-5. R. Baptista, E. Calvello, M. Darcy, H. Owhadi, A. M. Stuart, **X. Yang**.  
-   *Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks*.  
-   arXiv:2501.17110, 2025.  
-   [[arXiv](https://arxiv.org/abs/2501.17110)]
+  <li class="pub-card">
+    <div class="pub-meta">arXiv:2505.00909 · 2025</div>
+    <div class="pub-title">
+      Gaussian Process Policy Iteration with Additive Schwarz Acceleration for Forward and Inverse HJB and Mean Field Game Problems
+    </div>
+    <div class="pub-authors">
+      <strong>X. Yang</strong>, J. Zhang
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2505.00909">arXiv</a>
+    </div>
+  </li>
 
-</details>
+  <li class="pub-card">
+    <div class="pub-meta">arXiv:2501.17110 · 2025</div>
+    <div class="pub-title">
+      Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks
+    </div>
+    <div class="pub-authors">
+      R. Baptista, E. Calvello, M. Darcy, H. Owhadi, A. M. Stuart, <strong>X. Yang</strong>
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2501.17110">arXiv</a>
+    </div>
+  </li>
 
-<details open>
-<summary><strong>2024</strong></summary>
+</ul>
 
-6. T. Bourdais, P. Batlle, **X. Yang**, R. Baptista, N. Rouquette, H. Owhadi.  
-   *Codiscovering Graphical Structure and Functional Relationships within Data: A Gaussian Process Framework for Connecting Dots*.  
-   *Proceedings of the National Academy of Sciences* 121 (32), e2403449121, 2024.  
-   [[Journal](https://www.pnas.org/doi/abs/10.1073/pnas.2403449121?af=R)]
+### 2024
 
-7. J. Guo, C. Mou, **X. Yang**, C. Zhou.  
-   *Decoding Mean Field Games from Population and Environment Observations by Gaussian Processes*.  
-   *Journal of Computational Physics*, 2024.  
-   [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999124002274)] [[arXiv](https://arxiv.org/abs/2312.06625)]
+<ul class="pub-list">
 
-8. L. M. Briceno-Arias, F. J. Silva, **X. Yang**.  
-   *Forward–Backward Algorithm for Functions with Locally Lipschitz Gradient: Applications to Mean Field Games*.  
-   *Set-Valued and Variational Analysis* 32 (2), 1–22, 2024.  
-   [[Journal](https://link.springer.com/article/10.1007/s11228-024-00719-1)]
+  <li class="pub-card">
+    <div class="pub-meta">Proceedings of the National Academy of Sciences 121 (32), e2403449121 · 2024</div>
+    <div class="pub-title">
+      Codiscovering Graphical Structure and Functional Relationships within Data: A Gaussian Process Framework for Connecting Dots
+    </div>
+    <div class="pub-authors">
+      T. Bourdais, P. Batlle, <strong>X. Yang</strong>, R. Baptista, N. Rouquette, H. Owhadi
+    </div>
+    <div class="pub-links">
+      <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2403449121?af=R">Journal</a>
+    </div>
+  </li>
 
-</details>
+  <li class="pub-card">
+    <div class="pub-meta">Journal of Computational Physics · 2024</div>
+    <div class="pub-title">
+      Decoding Mean Field Games from Population and Environment Observations by Gaussian Processes
+    </div>
+    <div class="pub-authors">
+      J. Guo, C. Mou, <strong>X. Yang</strong>, C. Zhou
+    </div>
+    <div class="pub-links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0021999124002274">Journal</a>
+      <a href="https://arxiv.org/abs/2312.06625">arXiv</a>
+    </div>
+  </li>
 
-<details open>
-<summary><strong>2023</strong></summary>
+  <li class="pub-card">
+    <div class="pub-meta">Set-Valued and Variational Analysis 32 (2), 1–22 · 2024</div>
+    <div class="pub-title">
+      Forward–Backward Algorithm for Functions with Locally Lipschitz Gradient: Applications to Mean Field Games
+    </div>
+    <div class="pub-authors">
+      L. M. Briceno-Arias, F. J. Silva, <strong>X. Yang</strong>
+    </div>
+    <div class="pub-links">
+      <a href="https://link.springer.com/article/10.1007/s11228-024-00719-1">Journal</a>
+    </div>
+  </li>
 
-9. **X. Yang**, H. Owhadi.  
-   *A Mini-Batch Method for Solving Nonlinear PDEs with Gaussian Processes*.  
-   arXiv:2306.00307, 2023.  
-   [[arXiv](https://arxiv.org/abs/2306.00307)]
+</ul>
 
-10. R. Meng, **X. Yang**.  
-    *Sparse Gaussian Processes for Solving Nonlinear PDEs*.  
-    *Journal of Computational Physics*, 2023.  
-    [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357)] [[arXiv](https://arxiv.org/abs/2205.03760)]
+### 2023
 
-</details>
+<ul class="pub-list">
 
-<details open>
-<summary><strong>2022</strong></summary>
+  <li class="pub-card">
+    <div class="pub-meta">arXiv:2306.00307 · 2023</div>
+    <div class="pub-title">
+      A Mini-Batch Method for Solving Nonlinear PDEs with Gaussian Processes
+    </div>
+    <div class="pub-authors">
+      <strong>X. Yang</strong>, H. Owhadi
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2306.00307">arXiv</a>
+    </div>
+  </li>
 
-11. C. Mou, **X. Yang**, C. Zhou.  
-    *Numerical Methods for Mean Field Games Based on Gaussian Processes and Fourier Features*.  
-    *Journal of Computational Physics*, 2022.  
-    [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999122002509#!)] [[arXiv](https://arxiv.org/abs/2112.05414)]
+  <li class="pub-card">
+    <div class="pub-meta">Journal of Computational Physics · 2023</div>
+    <div class="pub-title">
+      Sparse Gaussian Processes for Solving Nonlinear PDEs
+    </div>
+    <div class="pub-authors">
+      R. Meng, <strong>X. Yang</strong>
+    </div>
+    <div class="pub-links">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357">Journal</a>
+      <a href="https://arxiv.org/abs/2205.03760">arXiv</a>
+    </div>
+  </li>
 
-</details>
+</ul>
 
-<details>
-<summary><strong>2020</strong></summary>
+### 2022
 
-12. R. Ferreira, D. Gomes, **X. Yang**.  
-    *Two-Scale Homogenization of a Stationary Mean-Field Game*.  
-    *ESAIM: Control Optimisation and Calculus of Variations*, 2020.  
-    [[Journal](https://www.esaim-cocv.org/articles/cocv/abs/2020/01/cocv190113/cocv190113.html)] [[arXiv](https://arxiv.org/abs/1905.02046)]
+<ul class="pub-list">
 
-13. D. A. Gomes, **X. Yang**.  
-    *Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures*.  
-    *ESAIM: Mathematical Modelling and Numerical Analysis*, 2020.  
-    [[Journal](https://www.esaim-m2an.org/articles/m2an/abs/2020/06/m2an190163/m2an190163.html)] [[arXiv](https://arxiv.org/abs/1810.03483)]
+  <li class="pub-card">
+    <div class="pub-meta">Journal of Computational Physics · 2022</div>
+    <div class="pub-title">
+      Numerical Methods for Mean Field Games Based on Gaussian Processes and Fourier Features
+    </div>
+    <div class="pub-authors">
+      C. Mou, <strong>X. Yang</strong>, C. Zhou
+    </div>
+    <div class="pub-links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0021999122002509#!">Journal</a>
+      <a href="https://arxiv.org/abs/2112.05414">arXiv</a>
+    </div>
+  </li>
 
-</details>
+</ul>
 
-<details>
-<summary><strong>2016</strong></summary>
+### 2020
 
-14. **X. Yang**, E. Debonneuil, A. Zhavoronkov, B. Mishra.  
-    *Cancer Megafunds with in Silico and in Vitro Validation: Accelerating Cancer Drug Discovery via Financial Engineering Without Financial Crisis*.  
-    *Oncotarget*, 2016.  
-    [[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295380/)]
+<ul class="pub-list">
 
-15. N. Almayouf, E. Bachini, A. Chapouto, R. Ferreira, D. Gomes, D. Jordão, D. E. Junior, A. Karagulyan, J. Monasterio,  
-    L. Nurbekyan, G. Pagliar, M. Piccirilli, S. Pratapsi, M. Prazeres, J. Reis, A. Rodrigues, O. Romero, M. Sargsyan,  
-    T. Seneci, C. Song, K. Terai, R. Tomisaki, H. Velasco-Perez, V. Voskanyan, **X. Yang**.  
-    *Existence of Positive Solutions for an Approximation of Stationary Mean-Field Games*.  
-    *Involve, a Journal of Mathematics*, 2016.  
-    [[arXiv](https://arxiv.org/abs/1511.06999)]
+  <li class="pub-card">
+    <div class="pub-meta">ESAIM: Control Optimisation and Calculus of Variations · 2020</div>
+    <div class="pub-title">
+      Two-Scale Homogenization of a Stationary Mean-Field Game
+    </div>
+    <div class="pub-authors">
+      R. Ferreira, D. Gomes, <strong>X. Yang</strong>
+    </div>
+    <div class="pub-links">
+      <a href="https://www.esaim-cocv.org/articles/cocv/abs/2020/01/cocv190113/cocv190113.html">Journal</a>
+      <a href="https://arxiv.org/abs/1905.02046">arXiv</a>
+    </div>
+  </li>
 
-</details>
+  <li class="pub-card">
+    <div class="pub-meta">ESAIM: Mathematical Modelling and Numerical Analysis · 2020</div>
+    <div class="pub-title">
+      Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures
+    </div>
+    <div class="pub-authors">
+      D. A. Gomes, <strong>X. Yang</strong>
+    </div>
+    <div class="pub-links">
+      <a href="https://www.esaim-m2an.org/articles/m2an/abs/2020/06/m2an190163/m2an190163.html">Journal</a>
+      <a href="https://arxiv.org/abs/1810.03483">arXiv</a>
+    </div>
+  </li>
 
-<details>
-<summary><strong>2014</strong></summary>
+</ul>
 
-16. R. Wang, **X. Yang**, Y. Yuan, W. Chen, K. Bala, H. Bao.  
-    *Automatic Shader Simplification Using Surface Signal Approximation*.  
-    *ACM Transactions on Graphics*, Proceedings of ACM SIGGRAPH ASIA, 2014.  
-    [[Journal](https://dl.acm.org/doi/10.1145/2661229.2661276)]
+### 2016
 
-</details>
+<ul class="pub-list">
+
+  <li class="pub-card">
+    <div class="pub-meta">Oncotarget · 2016</div>
+    <div class="pub-title">
+      Cancer Megafunds with in Silico and in Vitro Validation: Accelerating Cancer Drug Discovery via Financial Engineering Without Financial Crisis
+    </div>
+    <div class="pub-authors">
+      <strong>X. Yang</strong>, E. Debonneuil, A. Zhavoronkov, B. Mishra
+    </div>
+    <div class="pub-links">
+      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295380/">Journal</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
+    <div class="pub-meta">Involve, a Journal of Mathematics · 2016</div>
+    <div class="pub-title">
+      Existence of Positive Solutions for an Approximation of Stationary Mean-Field Games
+    </div>
+    <div class="pub-authors">
+      N. Almayouf, E. Bachini, A. Chapouto, R. Ferreira, D. Gomes, D. Jordão, D. E. Junior, A. Karagulyan, J. Monasterio,
+      L. Nurbekyan, G. Pagliar, M. Piccirilli, S. Pratapsi, M. Prazeres, J. Reis, A. Rodrigues, O. Romero, M. Sargsyan,
+      T. Seneci, C. Song, K. Terai, R. Tomisaki, H. Velasco-Perez, V. Voskanyan, <strong>X. Yang</strong>
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/1511.06999">arXiv</a>
+    </div>
+  </li>
+
+</ul>
+
+### 2014
+
+<ul class="pub-list">
+
+  <li class="pub-card">
+    <div class="pub-meta">ACM Transactions on Graphics, Proceedings of ACM SIGGRAPH ASIA · 2014</div>
+    <div class="pub-title">
+      Automatic Shader Simplification Using Surface Signal Approximation
+    </div>
+    <div class="pub-authors">
+      R. Wang, <strong>X. Yang</strong>, Y. Yuan, W. Chen, K. Bala, H. Bao
+    </div>
+    <div class="pub-links">
+      <a href="https://dl.acm.org/doi/10.1145/2661229.2661276">Journal</a>
+    </div>
+  </li>
+
+</ul>
 
 ---
 
 ## Invited Talks
 
-- **Gaussian Processes for Solving Functional PDEs: Applications to Functional Renormalization Group Equations**  
-  *Conference*: Scientific Machine Learning: Theory, Algorithms, and Applications, Purdue  
-  *Date*: Sep. 2025  
+<ul class="talk-list">
 
-- **Data-Driven Methods for PDE Solutions and Model Discovery**  
-  *Conference*: UQ and Trustworthy AI Algorithms for Complex Systems and Social Good, Chicago  
-  *Date*: Mar. 2025  
+  <li class="talk-card">
+    <div class="talk-title">
+      Gaussian Processes for Solving Functional PDEs: Applications to Functional Renormalization Group Equations
+    </div>
+    <div class="talk-where">
+      Scientific Machine Learning: Theory, Algorithms, and Applications, Purdue
+    </div>
+    <div class="talk-date">
+      Sep. 2025
+    </div>
+  </li>
 
-- **Decoding Mean Field Games from Population and Environment Observations by Gaussian Processes**  
-  *Conference*: SIAM MDS 2024 Minisymposium  
-  *Date*: Oct. 2024  
+  <li class="talk-card">
+    <div class="talk-title">
+      Data-Driven Methods for PDE Solutions and Model Discovery
+    </div>
+    <div class="talk-where">
+      UQ and Trustworthy AI Algorithms for Complex Systems and Social Good, Chicago
+    </div>
+    <div class="talk-date">
+      Mar. 2025
+    </div>
+  </li>
 
-- **Decoding Mean Field Games from Population and Environment Observations by Gaussian Processes**  
-  *Conference*: Workshop on Scientific Computing and Large Data, Department of Mathematics, University of South Carolina  
-  *Date*: Dec. 2023  
+  <li class="talk-card">
+    <div class="talk-title">
+      Decoding Mean Field Games from Population and Environment Observations by Gaussian Processes
+    </div>
+    <div class="talk-where">
+      SIAM MDS 2024 Minisymposium
+    </div>
+    <div class="talk-date">
+      Oct. 2024
+    </div>
+  </li>
 
-- **Numerical Methods for Mean Field Games Based on Gaussian Processes and Fourier Features**  
-  *Conference*: DKU–NUSRI Joint Workshop on Pure and Applied Mathematics 2022  
-  *Date*: Jan. 2022  
+  <li class="talk-card">
+    <div class="talk-title">
+      Decoding Mean Field Games from Population and Environment Observations by Gaussian Processes
+    </div>
+    <div class="talk-where">
+      Workshop on Scientific Computing and Large Data, Department of Mathematics, University of South Carolina
+    </div>
+    <div class="talk-date">
+      Dec. 2023
+    </div>
+  </li>
 
-- **Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures**  
-  *Conference*: Two–Days Online Workshop on MFG  
-  *Date*: Jun. 2020  
+  <li class="talk-card">
+    <div class="talk-title">
+      Numerical Methods for Mean Field Games Based on Gaussian Processes and Fourier Features
+    </div>
+    <div class="talk-where">
+      DKU–NUSRI Joint Workshop on Pure and Applied Mathematics 2022
+    </div>
+    <div class="talk-date">
+      Jan. 2022
+    </div>
+  </li>
 
-- **Two-Scale Homogenization of a Stationary Mean-Field Game**  
-  *Conference*: 32nd Brazilian Math. Colloquium, IMPA, Rio, Brazil  
-  *Date*: Jul. 2019  
+  <li class="talk-card">
+    <div class="talk-title">
+      Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures
+    </div>
+    <div class="talk-where">
+      Two–Days Online Workshop on MFG
+    </div>
+    <div class="talk-date">
+      Jun. 2020
+    </div>
+  </li>
 
-- **Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures**  
-  *Place*: The University of Limoges, France  
-  *Date*: Mar. 2019  
+  <li class="talk-card">
+    <div class="talk-title">
+      Two-Scale Homogenization of a Stationary Mean-Field Game
+    </div>
+    <div class="talk-where">
+      32nd Brazilian Math. Colloquium, IMPA, Rio, Brazil
+    </div>
+    <div class="talk-date">
+      Jul. 2019
+    </div>
+  </li>
 
-- **Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures**  
-  *Place*: The University of Padova, Italy  
-  *Date*: May. 2018  
+  <li class="talk-card">
+    <div class="talk-title">
+      Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures
+    </div>
+    <div class="talk-where">
+      The University of Limoges, France
+    </div>
+    <div class="talk-date">
+      Mar. 2019
+    </div>
+  </li>
+
+  <li class="talk-card">
+    <div class="talk-title">
+      Hessian Riemannian Flows and Newton’s Method for Effective Hamiltonians and Mather Measures
+    </div>
+    <div class="talk-where">
+      The University of Padova, Italy
+    </div>
+    <div class="talk-date">
+      May. 2018
+    </div>
+  </li>
+
+</ul>
+
