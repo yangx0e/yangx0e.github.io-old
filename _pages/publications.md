@@ -12,7 +12,8 @@ My research interests include mean field games, partial differential equations, 
 
 ## Publications
 
-### 2025
+<details open>
+<summary><strong>2025</strong></summary>
 
 1. J. Zhang, **X. Yang**, C. Mou, C. Zhou.  
    *Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to Ill-Posed Inverse Problems*.  
@@ -39,8 +40,10 @@ My research interests include mean field games, partial differential equations, 
    arXiv:2501.17110, 2025.  
    [[arXiv](https://arxiv.org/abs/2501.17110)]
 
+</details>
 
-### 2024
+<details open>
+<summary><strong>2024</strong></summary>
 
 6. T. Bourdais, P. Batlle, **X. Yang**, R. Baptista, N. Rouquette, H. Owhadi.  
    *Codiscovering Graphical Structure and Functional Relationships within Data: A Gaussian Process Framework for Connecting Dots*.  
@@ -57,8 +60,10 @@ My research interests include mean field games, partial differential equations, 
    *Set-Valued and Variational Analysis* 32 (2), 1–22, 2024.  
    [[Journal](https://link.springer.com/article/10.1007/s11228-024-00719-1)]
 
+</details>
 
-### 2023
+<details open>
+<summary><strong>2023</strong></summary>
 
 9. **X. Yang**, H. Owhadi.  
    *A Mini-Batch Method for Solving Nonlinear PDEs with Gaussian Processes*.  
@@ -70,16 +75,20 @@ My research interests include mean field games, partial differential equations, 
     *Journal of Computational Physics*, 2023.  
     [[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004357)] [[arXiv](https://arxiv.org/abs/2205.03760)]
 
+</details>
 
-### 2022
+<details open>
+<summary><strong>2022</strong></summary>
 
 11. C. Mou, **X. Yang**, C. Zhou.  
     *Numerical Methods for Mean Field Games Based on Gaussian Processes and Fourier Features*.  
     *Journal of Computational Physics*, 2022.  
     [[Journal](https://www.sciencedirect.com/science/article/pii/S0021999122002509#!)] [[arXiv](https://arxiv.org/abs/2112.05414)]
 
+</details>
 
-### 2020
+<details>
+<summary><strong>2020</strong></summary>
 
 12. R. Ferreira, D. Gomes, **X. Yang**.  
     *Two-Scale Homogenization of a Stationary Mean-Field Game*.  
@@ -91,8 +100,10 @@ My research interests include mean field games, partial differential equations, 
     *ESAIM: Mathematical Modelling and Numerical Analysis*, 2020.  
     [[Journal](https://www.esaim-m2an.org/articles/m2an/abs/2020/06/m2an190163/m2an190163.html)] [[arXiv](https://arxiv.org/abs/1810.03483)]
 
+</details>
 
-### 2016
+<details>
+<summary><strong>2016</strong></summary>
 
 14. **X. Yang**, E. Debonneuil, A. Zhavoronkov, B. Mishra.  
     *Cancer Megafunds with in Silico and in Vitro Validation: Accelerating Cancer Drug Discovery via Financial Engineering Without Financial Crisis*.  
@@ -106,23 +117,20 @@ My research interests include mean field games, partial differential equations, 
     *Involve, a Journal of Mathematics*, 2016.  
     [[arXiv](https://arxiv.org/abs/1511.06999)]
 
+</details>
 
-### 2014
+<details>
+<summary><strong>2014</strong></summary>
 
 16. R. Wang, **X. Yang**, Y. Yuan, W. Chen, K. Bala, H. Bao.  
     *Automatic Shader Simplification Using Surface Signal Approximation*.  
     *ACM Transactions on Graphics*, Proceedings of ACM SIGGRAPH ASIA, 2014.  
     [[Journal](https://dl.acm.org/doi/10.1145/2661229.2661276)]
 
+</details>
 
 ---
 
-## Invited Talks
-
-> 这里做成「时间轴 + 卡片」风格，比大表格更现代。  
-> 如果你很喜欢原来的表格，也可以只换 Publications，不动 Talks。
-
-```markdown
 ## Invited Talks
 
 - **Gaussian Processes for Solving Functional PDEs: Applications to Functional Renormalization Group Equations**  
