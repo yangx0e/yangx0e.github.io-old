@@ -46,46 +46,14 @@ Publications
   
 Invited Talks
 ======
-
-* Gaussian Processes for Solving Functional PDEs: Applications to Functional Renormalization Group Equations Sep. 2025
-  * Conference: Scientific Machine Learning: Theory, Algorithms, and Applications, Purdue
-
-* Data-Driven Methods for PDE Solutions and Model Discovery                                    March.2025
-  * Conference: UQ and Trustworthy AI Algorithms for Complex Systems and Social Good, Chicago
-
-
-* Decoding mean field games from population and environment observations by Gaussian Processes  		Oct.2024          
-  * Conference: SIAM MDS 2024 Minisymposium
-
-* Decoding mean field games from population and environment observations by Gaussian Processes  		Dec.2023          
-  * Conference: Workshop on Scientific Computing and Large Data
-  * Department of Mathematics, University of South Carolina
-
-* Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features, Jan. 2022          
-  * Conference: DKU-NUSRI Joint Workshop on Pure and Applied Mathematics 2022
-
-* Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures, Jun. 2020
-  * Conference: Two-Days online workshop on MFG
-
-* Two-scale homogenization of a stationary mean-field game, Jul. 2019
-  * Conference: 32nd Brazilian Math. Colloquium
-  * Place: IMPA, Rio, Brazil
-
-* Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures, Mar. 2019
-  * Place: The University of Limoges, France
-
-* Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures, May. 2018
-  * Place: The University of Padova, Italy
-
-
-Talks
-======
-* Two-scale homogenization of a stationary mean-field game, Sep. 2019
-  * Conference: Mean-field games and related topics-5
-  * Place: Levico, Terme, Italy
-
-* Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures, Jun. 2018
-  * Poster session
-  * Graduate Summer School: Mean Field Games and Applications
-  * Place: Institute for pure and applied mathematics, UCLA, Los Angeles, California
- 
+| Talk | Date |
+| --- | ---: |
+| **Gaussian Processes for Solving Functional PDEs: Applications to Functional Renormalization Group Equations**  <br/>Conference: Scientific Machine Learning: Theory, Algorithms, and Applications, Purdue | Sep. 2025 |
+| **Data-Driven Methods for PDE Solutions and Model Discovery**  <br/>Conference: UQ and Trustworthy AI Algorithms for Complex Systems and Social Good, Chicago | Mar. 2025 |
+| **Decoding mean field games from population and environment observations by Gaussian Processes**  <br/>Conference: SIAM MDS 2024 Minisymposium | Oct. 2024 |
+| **Decoding mean field games from population and environment observations by Gaussian Processes**  <br/>Conference: Workshop on Scientific Computing and Large Data  <br/>Department of Mathematics, University of South Carolina | Dec. 2023 |
+| **Numerical methods for Mean field Games based on Gaussian Processes and Fourier Features**  <br/>Conference: DKU--NUSRI Joint Workshop on Pure and Applied Mathematics 2022 | Jan. 2022 |
+| **Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures**  <br/>Conference: Two--Days online workshop on MFG | Jun. 2020 |
+| **Two--scale homogenization of a stationary mean--field game**  <br/>Conference: 32nd Brazilian Math. Colloquium  <br/>Place: IMPA, Rio, Brazil | Jul. 2019 |
+| **Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures**  <br/>Place: The University of Limoges, France | Mar. 2019 |
+| **Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures**  <br/>Place: The University of Padova, Italy | May. 2018 |
