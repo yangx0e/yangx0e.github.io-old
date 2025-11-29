@@ -38,7 +38,7 @@ Publications
 
 * D. A. Gomes, **X. Yang**. Hessian Riemannian flows and Newton’s method for Effective Hamiltonians and Mather measures. ESAIM: Mathematical Modelling and Numerical Analysis, 2020. [[Journal](https://www.esaim-m2an.org/articles/m2an/abs/2020/06/m2an190163/m2an190163.html)][[Arxiv](https://arxiv.org/abs/1810.03483)]
 
-* **X Yang**, E Debonneuil, A Zhavoronkov, B. Mishra. Cancer megafunds with in silico and in vitro validation: Accelerating Cancer Drug Discovery via Financial Engineering without Financial Crisis. Oncotarget, 2016. [[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295380/)]
+* **X. Yang**, E Debonneuil, A Zhavoronkov, B. Mishra. Cancer megafunds with in silico and in vitro validation: Accelerating Cancer Drug Discovery via Financial Engineering without Financial Crisis. Oncotarget, 2016. [[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295380/)]
 
 * N. Almayouf, E. Bachini, A. Chapouto, R. Ferreira, D. Gomes, D. Jordão, D. E. Junior, A. Karagulyan, J. Monasterio, L. Nurbekyan, G. Pagliar, M. Piccirilli, S. Pratapsi, M. Prazeres, J. Reis, A. Rodrigues, O. Romero, M. Sargsyan, T.  Seneci, C. Song, K. Terai, R. Tomisaki, H. Velasco-Perez, V. Voskanyan, **X. Yang**. Existence of positive solutions for an approximation of stationary mean-field games. Involve, a Journal of Mathematics, 2016. [[Arxiv](https://arxiv.org/abs/1511.06999)]
 
